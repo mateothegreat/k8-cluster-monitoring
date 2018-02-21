@@ -2,3 +2,27 @@
 	path = .make
 	url = git@github.com:mateothegreat/.make.git
 	branch = master
+[submodule "modules/k8-byexamples-mysql"]
+	path = modules/k8-byexamples-mysql
+	url = git@github.com:mateothegreat/k8-byexamples-mysql
+	branch = master
+[submodule "modules/k8-byexamples-elasticsearch-cluster"]
+	path = modules/k8-byexamples-elasticsearch-cluster
+	url = git@github.com:mateothegreat/k8-byexamples-elasticsearch-cluster
+	branch = master
+[submodule "modules/k8-byexamples-kibana"]
+	path = modules/k8-byexamples-kibana
+	url = git@github.com:mateothegreat/k8-byexamples-kibana
+	branch = master
+[submodule "modules/k8-byexamples-fluentd-collector"]
+	path = modules/k8-byexamples-fluentd-collector
+	url = git@github.com:mateothegreat/k8-byexamples-fluentd-collector
+	branch = master
+[submodule "modules/k8-byexamples-monitoring-grafana"]
+	path = modules/k8-byexamples-monitoring-grafana
+	url = git@github.com:mateothegreat/k8-byexamples-monitoring-grafana
+	branch = master
+[submodule "modules/k8-byexamples-monitoring-prometheus"]
+	path = modules/k8-byexamples-monitoring-prometheus
+	url = git@github.com:mateothegreat/k8-byexamples-monitoring-prometheus
+	branch = master
